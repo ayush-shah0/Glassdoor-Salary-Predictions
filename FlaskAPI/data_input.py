@@ -2,7 +2,7 @@
 """
 Created on Tue Apr 14 08:27:28 2021
 
-@author: Ayush
+@author: Ayush Shah
 """
 
 data_in = [3.6,
